@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="322245dd-3d3b-49fc-8b71-92b781b38930" name="Changes" comment="My commit">
-      <change afterPath="$PROJECT_DIR$/.idea/Perfomance_Lab_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/author.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_1/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/circle.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/dots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_2/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_3/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_3/tests.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_3/values.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2/circle.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/circle.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2/dots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/dots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_2/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/task_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dartie17"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dartie17/Perfomance_Lab_1.git",
+    "accountId": "28660847-f339-4c2e-9fe6-77c060749bbb"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gsPFN5mgos0NEayTSZ3JtB3KIJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,10 +49,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
