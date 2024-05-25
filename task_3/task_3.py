@@ -1,8 +1,9 @@
 # Формирование файла report.json с заполненными полями value для структуры tests.json на основании values.json
+# В качестве аргументов принимает три файла в след. порядке: файл с тестами, файл с результатами и файл отчета
 
 import json
 
-def create_report(values, tests, report):
+def create_report(tests, values, report):
 
     with open(tests, 'r') as t:
         data_tests = json.load(t)
@@ -31,4 +32,4 @@ def create_report(values, tests, report):
         json.dump(data_tests, r, ensure_ascii=False, indent=2)
 
 
-create_report('values.json', 'tests.json', 'report.json')
+create_report(input(), input(), input())

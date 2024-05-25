@@ -1,5 +1,5 @@
 # Расчет положения точек относительно окружности
-# В качестве аргументов принимает файл с координатами и радиусом окружности и файл с координатами точек
+# В качестве аргументов принимает два файла в след. порядке: файл с коорд. и радиусом окружности, файл с коорд. точек
 
 def dots_laying_circle(circle_file, dots_file):
     c = open(circle_file)
@@ -23,4 +23,4 @@ def dots_laying_circle(circle_file, dots_file):
             print(0)
 
 
-dots_laying_circle('circle.txt', 'dots.txt')
+dots_laying_circle(input(), input())
