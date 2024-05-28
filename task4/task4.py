@@ -15,4 +15,4 @@ def bring_same_num(num_file):
     print(steps)
 
 
-bring_same_num(input())
+bring_same_num('numbers.txt')

@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="322245dd-3d3b-49fc-8b71-92b781b38930" name="Changes" comment="My commit">
+      <change beforePath="$PROJECT_DIR$/.idea/Perfomance_Lab_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Perfomance_Lab_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_2/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_3/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_4/numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task_4/numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3/task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Dartie17/Perfomance_Lab_1.git&quot;,
-    &quot;accountId&quot;: &quot;28660847-f339-4c2e-9fe6-77c060749bbb&quot;
+    &quot;accountId&quot;: &quot;cef88b5d-d804-4e72-bc65-ff97448c1c9e&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,6 +47,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.task1.executor": "Run",
+    "Python.task2.executor": "Run",
+    "Python.task3.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
@@ -58,6 +63,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dartie\PycharmProjects\Perfomance_Lab_1\task3" />
+      <recent name="C:\Users\Dartie\PycharmProjects\Perfomance_Lab_1\task4" />
       <recent name="C:\Users\Dartie\PycharmProjects\Perfomance_Lab_1\task_3" />
       <recent name="C:\Users\Dartie\PycharmProjects\Perfomance_Lab_1" />
     </key>
@@ -118,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716585138610</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My commit">
+      <option name="closed" value="true" />
+      <created>1716901188847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716901188847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

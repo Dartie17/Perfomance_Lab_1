@@ -23,4 +23,4 @@ def dots_laying_circle(circle_file, dots_file):
             print(0)
 
 
-dots_laying_circle(input(), input())
+dots_laying_circle('circle.txt', 'dots.txt')

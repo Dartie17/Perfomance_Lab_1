@@ -32,4 +32,4 @@ def create_report(tests, values, report):
         json.dump(data_tests, r, ensure_ascii=False, indent=2)
 
 
-create_report(input(), input(), input())
+create_report('tests.json', 'values.json', 'report.json')
